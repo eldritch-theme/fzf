@@ -1,0 +1,5 @@
+--color=bg+:@@CURRENTLINE@@,bg:@@BACKGROUND@@,spinner:@@PURPLE@@,hl:@@ORANGE@@
+--color=fg:@@FOREGROUND@@,header:@@COMMENT@@,info:@@CYAN@@,pointer:@@PINK@@
+--color=marker:@@GREEN@@,fg+:@@FOREGROUND@@,prompt:@@PURPLE@@,hl+:@@ORANGE@@
+--color=selected-bg:@@SURFACE@@
+--color=border:@@CURRENTLINE@@,label:@@FOREGROUND@@

@@ -29,7 +29,7 @@ Main Theme repo can be found [here](https://github.com/eldritch-theme/eldritch)
 
 2. Export `FZF_DEFAULT_OPTS_FILE` in your shell pointing to the file of your preferred variant:
    ```sh
-   export FZF_DEFAULT_OPTS_FILE="~/.config/eldritch-fzf-cthulhu.rc"
-   export FZF_DEFAULT_OPTS_FILE="~/.config/eldritch-fzf-abyss.rc"
-   export FZF_DEFAULT_OPTS_FILE="~/.config/eldritch-fzf-dusk.rc"
+   export FZF_DEFAULT_OPTS_FILE="$HOME/.config/eldritch-fzf-cthulhu.rc"
+   export FZF_DEFAULT_OPTS_FILE="$HOME/.config/eldritch-fzf-abyss.rc"
+   export FZF_DEFAULT_OPTS_FILE="$HOME/.config/eldritch-fzf-dusk.rc"
    ```
